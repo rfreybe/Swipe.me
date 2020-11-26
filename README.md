@@ -4,7 +4,7 @@ Programmierung Mobiler Endgeräte (PME) - Projekt, FHE
 
 Sollkriterien:
 - Kirschen
-äpfel
+- Äpfel
 
 Wunschkriterien:
 -
